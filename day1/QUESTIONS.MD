@@ -1,7 +1,7 @@
-How much is the current memory capacity of a canister?
+1) How much is the current memory capacity of a canister?
 8GB
 
-What is the issue with the following code sample?
+2) What is the issue with the following code sample?
 actor {
   let counter : Nat = 0;
   public func increment_counter() : async () {
@@ -10,7 +10,7 @@ actor {
 }
 The counter variable is immutable 
 
-What is the issue with the following code sample?
+3) What is the issue with the following code sample?
 actor {
   var message : Text = 0;
 
@@ -25,5 +25,5 @@ actor {
 }
 The message variable is initialized as number
 
-False or True: we can remove the keyword async for the return argument of a query function since queries are faster to answer.
+4) False or True: we can remove the keyword async for the return argument of a query function since queries are faster to answer.
 false
