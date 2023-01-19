@@ -2,9 +2,8 @@
 The NNS subnet
 
 2) What is the subnet of the canister with the id: mwrha-maaaa-aaaab-qabqq-cai? How many nodes are running this subnet?
-There is no subnet.
-Controllers: a3hwk-dyaaa-aaaab-qaa4a-cai k3f6a-5uxhv-dqjj6-762lc-yazgp-drpws-a35e7-wf27k-ujuio-ye2lh-xqe
-Module hash: 0xd8d65e5ebdf7f884e59bdf73061c16f8186dcab128272343a047b59098f7cc93
+The subnet is pae4o-o6dxf-xki7q-ezclx-znyd6-fnk6w-vkv5z-5lfwh-xym2i-otrrw-fqe
+It is running 16 nodes
 
 3) I have a neuron with 1O ICPs locked with a dissolve delay of 4 years - my neuron has been locked for 2 years. What is my expected voting power?
 5.99 
